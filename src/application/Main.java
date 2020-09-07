@@ -10,6 +10,8 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 	
+	//testando
+	
 	private static Scene mainScene;
 	
 	@Override
